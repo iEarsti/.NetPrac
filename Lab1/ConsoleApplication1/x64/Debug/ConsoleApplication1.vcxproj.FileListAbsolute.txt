@@ -1,0 +1,2 @@
+J:\Moyo\КНУ\ООП\Lab1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
+J:\Moyo\КНУ\.Net Prac\Lab1\ConsoleApplication1\x64\Debug\ConsoleApplication1.vcxproj.AssemblyReference.cache
